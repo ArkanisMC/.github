@@ -8,6 +8,9 @@ Arkanis est un serveur Minecraft 100% open source, conçu pour offrir une expér
 - 🛠️ Personnalisable avec plugins optimisés
 - 🔄 Supporte toutes les versions de Minecraft
 
+## 🔧 Projets
+- 🏠 [arkanis-api](https://github.com/ArkanisMC/arkanis-api) - Le projet principal du serveur, permettant la gestion complète.
+
 ## 📦 Installation
 
 ### Prérequis
